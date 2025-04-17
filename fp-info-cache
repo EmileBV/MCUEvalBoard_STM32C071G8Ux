@@ -1,4 +1,4 @@
-25221169433874480
+25224659233226291
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101276,6 +101276,13 @@ Varistor VF
 2
 2
 footprints
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints
 DBV0005A-IPC_A
 
 TLV74033PDBVR 
@@ -101317,6 +101324,13 @@ SAMESKY_UJ20-C-H-G-SMT-1-P16-TR
 0
 16
 16
+footprints
+SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
 footprints
 TL1017AABF160QG
 TL1017AABF160QG-1
